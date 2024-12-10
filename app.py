@@ -62,3 +62,4 @@ elif calc_type == '定期定額試算':
     st.write(f'### 定期定額結果')
     st.write(f'總投入金額: ${monthly_invest * months:,.2f}')
     st.write(f'預期最終金額: ${future_value:,.2f}')
+    
